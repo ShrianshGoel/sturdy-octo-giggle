@@ -1,8 +1,8 @@
 # exported by https://3dviewer.net
-newmtl Shiba
+newmtl Pug
 Ka 0 0 0
 Kd 1 1 1
 Ks 0 0 0
 Ns 0
 d 1
-map_Kd Shiba_baseColor.png
+map_Kd Pug_texture.png
