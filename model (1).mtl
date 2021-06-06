@@ -1,0 +1,8 @@
+# exported by https://3dviewer.net
+newmtl Shading
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 0
+d 0.8392408536305636
+map_Kd Shading_baseColor.png
