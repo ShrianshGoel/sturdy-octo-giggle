@@ -1,8 +1,36 @@
 # exported by https://3dviewer.net
-newmtl Pug
+newmtl Material_12
 Ka 0 0 0
 Kd 1 1 1
 Ks 0 0 0
 Ns 0
 d 1
-map_Kd Pug_texture.png
+map_Kd Material_12_baseColor.png
+newmtl Material_13
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd Material_13_baseColor.png
+newmtl Material_14
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd Material_14_baseColor.png
+newmtl Material_15
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd Material_15_baseColor.png
+newmtl Material_16
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+map_Kd Material_16_baseColor.png
